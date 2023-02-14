@@ -5,8 +5,8 @@
 }
 
 h4 {
-   
-    font-size: 120%;
+    color: hotpink;
+    font-size: 200%;
 }
 
 
@@ -40,7 +40,7 @@ li {
     flex-direction: row;
     padding: 3%;
     justify-content: space-between;
-    color: white;
+    color: hotpink;
     font-size: 15px;
     padding-top: 8%;
     padding-right: 10%;

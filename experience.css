@@ -1,0 +1,90 @@
+* {
+    font-family: monospace;
+    margin: 0;
+    
+}
+
+h4 {
+    color: hotpink;
+    font-size: 200%;
+    
+    
+}
+
+.logo-text {
+    display: flex;
+    flex-direction: row;
+    
+    
+    
+}
+
+
+#header {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(236, 236, 236);
+    color: rgb(61, 61, 61);
+    padding-bottom: 10px;
+    
+    
+
+}
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    list-style: none;
+    
+    
+    
+}
+
+li {
+    padding: 10px;
+    font-size: 150%;
+
+}
+
+h1 {
+    background-color:  rgba(111, 111, 111, 0.834);
+    padding: 15%;
+    display: flex; 
+    justify-content: center;
+    color: hotpink;
+    font-size: 50px;
+}
+
+.first-header {
+    background-color:rgba(111, 111, 111, 0.834);
+}
+
+.second-row{
+    background-color:rgba(111, 111, 111, 0.834);
+    color: hotpink;
+    padding: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.education-title {
+    font-size: 250%;
+    padding-bottom: 5%;
+}
+
+.third-row {
+    display: flex;
+    background-color: rgba(205, 205, 205, 0.834);
+    padding: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.previous-work-title {
+    color: hotpink;
+    font-size: 250%;
+    padding-bottom: 5%;
+}

@@ -3,8 +3,8 @@
     margin: 0;
 }
 h4 {
-   
-    font-size: 120%;
+    color: hotpink;
+    font-size: 200%;
 }
 
 #header {
@@ -61,7 +61,7 @@ a {
 
 .first-title{
     font-size: 400%;
-    color: white;
+    color: hotpink;
 }
 
 .second-row {
@@ -83,11 +83,11 @@ a {
     padding-top:  15%;
     padding-bottom: 15%;
     font-size: 150%;
-    color: rgb(86, 86, 86);
+    color: hotpink;
 }
 
 .heading-desc {
     font-size: 140%;
-    color: white;
+    color: hotpink;
 }
 
