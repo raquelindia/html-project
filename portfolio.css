@@ -1,7 +1,14 @@
 * {
     font-family: monospace;
     margin: 0;
+    
 }
+
+h4 {
+   
+    font-size: 120%;
+}
+
 
 #header {
     display: flex;
@@ -9,6 +16,7 @@
     background-color: rgb(236, 236, 236);
     color: rgb(61, 61, 61);
     padding-bottom: 10px;
+    p
     
 
 }
@@ -26,10 +34,6 @@ li {
     padding: 10px;
     font-size: 150%;
 
-}
-
-a {
-    text-decoration: none;
 }
 
 h1 {
@@ -56,15 +60,12 @@ image {
     background-color: rgba(150, 150, 150, 0.834);
 }
 
-img {
-    width: 20%;
-    
-}
+
 
 .projects-column {
     display: flex;
     flex-direction: column;
-    background-color: rgba(203, 203, 203, 0.834);
+    background-color: rgba(205, 205, 205, 0.834);
     align-items: center;
     padding: 10%;
 
@@ -93,4 +94,8 @@ img {
     color: white;
     font-size: 20px;
     margin-top: 20px;
+}
+
+img { 
+    width: 20%;
 }

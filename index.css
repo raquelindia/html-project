@@ -2,6 +2,10 @@
     font-family: monospace;
     margin: 0;
 }
+h4 {
+   
+    font-size: 120%;
+}
 
 #header {
     display: flex;
@@ -57,6 +61,33 @@ a {
 
 .first-title{
     font-size: 400%;
+    color: white;
+}
+
+.second-row {
+    background-color: rgba(150, 150, 150, 0.834);
+    color: white;
+    padding: 10%;
+    padding-bottom: 15%;
+    padding-top: 15%;
+}
+
+.quote {
+    font-style: italic;
+
+}
+
+.third-row  {
+    background-color: rgba(205, 205, 205, 0.834);
+    padding: 10%;
+    padding-top:  15%;
+    padding-bottom: 15%;
+    font-size: 150%;
+    color: rgb(86, 86, 86);
+}
+
+.heading-desc {
+    font-size: 140%;
     color: white;
 }
 

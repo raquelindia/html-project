@@ -1,7 +1,14 @@
 * {
     font-family: monospace;
     margin: 0;
+    
 }
+
+h4 {
+   
+    font-size: 120%;
+}
+
 
 #header {
     display: flex;
@@ -31,28 +38,38 @@ li {
 #body-row {
     display:flex;
     flex-direction: row;
-    margin: 3%;
+    padding: 3%;
     justify-content: space-between;
-    color: rgb(61, 61, 61);
+    color: white;
     font-size: 15px;
-    margin-top: 8%;
-    margin-right: 10%;
+    padding-top: 8%;
+    padding-right: 10%;
+    padding-bottom: 100%;
+    background-color: rgba(111, 111, 111, 0.834);
+    gap: 40%;
+
     
 }
 
 .selfie {
-    width: 110%;
-    height: 180%;
+    width: 300%;
+    height: 100%;
 }
 
 .text{
-    margin-left: 5%;
+    display: flex;
+    font-size: 120%;
+    flex-direction: column;
+    
 }
 
 img {
     border-radius: 6px;
+    
 }
 
 a {
     text-decoration: none;
 }
+
+
