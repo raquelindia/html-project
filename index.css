@@ -29,12 +29,28 @@ ul {
 li {
     padding: 10px;
     font-size: 150%;
+    color:  rgb(51, 51, 51);
 
 }
 
 a {
+    color: hotpink;
     text-decoration: none;
 }
+
+
+a:link {
+    color: hotpink;
+  }
+
+a:visited {
+    color: hotpink;
+  }
+
+  a:hover {
+    color:  rgb(51, 51, 51);
+  }
+
 
 .first-row {
     background-color: rgba(111, 111, 111, 0.834);
@@ -94,3 +110,5 @@ a {
 p {
     color:  rgb(51, 51, 51);
 }
+
+
