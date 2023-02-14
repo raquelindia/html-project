@@ -117,3 +117,19 @@ img {
 }
 
 
+@media screen and (max-width: 750px){
+    .portrait-image {
+        width: 280%;
+        
+    }
+
+    .first-row {
+        padding-right: 25%;
+        
+        
+        
+    }
+    
+  }
+
+
