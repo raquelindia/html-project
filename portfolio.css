@@ -113,9 +113,17 @@ image {
 
 img { 
     width: 20%;
+    border-radius: 6px;
 }
 
 p {
     font-size: 120%;
     color:  rgb(51, 51, 51);
+}
+
+@media screen and(max-width: 768px){
+    .projects-row {
+        flex-direction: flex;
+        flex-direction: column;
+    }
 }
